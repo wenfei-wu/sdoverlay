@@ -40,9 +40,9 @@
 5. Test the measurement plan in step 2, make sure they work
   
 
-## Routing
+## Routing (todo later)
 
-## Paper writing
+## Paper writing (Mei Zhiyu)
 1. Collect literatures
   * Google "Overlay Networks" find recent 20 years paper. 
   * For each paper, check its references and papers with it as a reference
